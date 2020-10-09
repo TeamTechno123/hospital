@@ -1,0 +1,87 @@
+body{
+  padding: 0px!important;
+  margin: 0px!important;
+}
+
+.row{
+  padding: 0px!important;
+  margin: 0px!important;
+}
+
+.container-fluid{
+    padding: 0px!important;
+    margin: 0px!important;
+}
+
+.inline{
+  display: inline-block!important;
+}
+
+.no-a{
+  text-decoration: none!important;
+}
+
+h1, h2, h3, h4, h5{
+  font-weight: 700!important;
+}
+
+
+/* Font SIze */
+.f-10{
+  font-size: 10px!important;
+}
+.f-12{
+  font-size: 12px!important;
+}
+.f-14{
+  font-size: 14px!important;
+}
+.f-16{
+  font-size: 16px!important;
+}
+.f-18{
+  font-size: 18px!important;
+}
+.f-20{
+  font-size: 20px!important;
+}
+.f-22{
+  font-size: 22px!important;
+}
+.f-24{
+  font-size: 24px!important;
+}
+.f-26{
+  font-size: 26px!important;
+}
+.f-28{
+  font-size: 28px!important;
+}
+.f-30{
+  font-size: 30px!important;
+}
+.f-36{
+  font-size: 36px!important;
+}
+.f-50{
+  font-size: 50px!important;
+}
+
+
+.main-banner{
+  padding-top: 10px;
+  padding-bottom: 30px;
+
+}
+
+.owl-one .owl-prev, .owl-one .owl-next{
+  display: none!important;
+}
+
+.owl-one .item img{
+  width: 100%!important;
+}
+
+.fw-400{
+  font-weight: 300!important;
+}
