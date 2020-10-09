@@ -43,12 +43,12 @@
                     <div class="row p-4">
                       <div class="form-group col-md-12 ">
                         <label>Complain Type</label>
-                        <input type="text" class="form-control form-control-sm" name="purpose" id="purpose" value="<?php if(isset($purpose_info)){ echo $purpose_info['purpose']; } ?>" placeholder="Complain Type" required>
+                        <input type="text" class="form-control form-control-sm" name="complain_type_id" id="complain_type_id" value="<?php if(isset($complain_type_id_info)){ echo $complain_type_id_info['complain_type_id']; } ?>" placeholder="Complain Type" required>
                       </div>
 
                       <div class="form-group col-md-12">
                         <label> Description</label>
-                        <textarea class="form-control form-control-sm" rows="3" name="Description" id="Description" placeholder="Enter Description" required> </textarea>
+                        <textarea class="form-control form-control-sm" rows="3" name="complain_description" id="complain_description" placeholder="Enter Description" required> </textarea>
                   </div>
                     </div>
                     <div class="card-footer clearfix" style="display: block;">

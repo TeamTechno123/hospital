@@ -43,7 +43,7 @@
                     <div class="row p-4">
                       <div class="form-group col-md-12 ">
                         <label>Bed Type</label>
-                        <input type="text" class="form-control form-control-sm" name="purpose" id="purpose" value="<?php if(isset($purpose_info)){ echo $purpose_info['purpose']; } ?>" placeholder="Bed Type" required>
+                        <input type="text" class="form-control form-control-sm" name="bed_type" id="bed_type" value="<?php if(isset($bed_type_info)){ echo $bed_type_info['bed_type']; } ?>" placeholder="Bed Type" required>
                       </div>
                      
                     </div>

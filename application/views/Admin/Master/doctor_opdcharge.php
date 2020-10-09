@@ -44,14 +44,14 @@
 
                       <div class="form-group col-md-6  select_sm">
                         <label>Doctor </label>
-                          <select class="form-control select2" name="charges_type_id" id="charges_type_id" data-placeholder="Select" required>
+                          <select class="form-control select2" name="doctor_id" id="doctor_id" data-placeholder="Select" required>
                           <option value=""> Select </option>                         
                            </select>
                       </div>
 
                       <div class="form-group col-md-6 ">
                         <label>Standard Charge</label>
-                        <input type="text" class="form-control form-control-sm" name="purpose" id="purpose" value="" placeholder="Standard Charge" required>
+                        <input type="text" class="form-control form-control-sm" name="std_charges" id="std_charges" value="" placeholder="Standard Charge" required>
                       </div>
 
                      
@@ -62,15 +62,15 @@
                     <div class="row">
                        <div class="form-group col-md-6 ">
                         <label>CGHS</label>
-                        <input type="text" class="form-control form-control-sm" name="purpose" id="purpose" value="" placeholder="CGHS" required>
+                        <input type="text" class="form-control form-control-sm" name="cghs" id="cghs" value="" placeholder="CGHS" required>
                       </div>
                       <div class="form-group col-md-6 ">
                         <label>IDBI Federal</label>
-                        <input type="text" class="form-control form-control-sm" name="purpose" id="purpose" value="" placeholder="IDBI Federal" required>
+                        <input type="text" class="form-control form-control-sm" name="idbi_federal" id="idbi_federal" value="" placeholder="IDBI Federal" required>
                       </div>
                       <div class="form-group col-md-6 ">
                         <label>Star Health Insurance</label>
-                        <input type="text" class="form-control form-control-sm" name="purpose" id="purpose" value="" placeholder="Star Health Insurance" required>
+                        <input type="text" class="form-control form-control-sm" name="star_health" id="star_health" value="" placeholder="Star Health Insurance" required>
                       </div>
                     </div>
                   </div>

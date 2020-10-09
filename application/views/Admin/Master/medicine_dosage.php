@@ -44,13 +44,13 @@
 
                        <div class="form-group col-md-12  select_sm">
                         <label>Medicine Category </label>
-                          <select class="form-control select2" name="bed_group_id" id="bed_group_id" data-placeholder="Select" required>
+                          <select class="form-control select2" name="medicine_category_id" id="medicine_category_id" data-placeholder="Select" required>
                         <option value=""> Select </option>                         
                           </select>
                       </div>
                       <div class="form-group col-md-12 ">
                         <label>Medicine Dosage</label>
-                        <input type="text" class="form-control form-control-sm" name="purpose" id="purpose" value="" placeholder="Medicine Dosage" required>
+                        <input type="text" class="form-control form-control-sm" name="medicine_dosage" id="medicine_dosage" value="" placeholder="Medicine Dosage" required>
                       </div>
 
 

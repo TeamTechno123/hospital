@@ -44,14 +44,9 @@
 
                       <div class="form-group col-md-12 ">
                         <label>Leave Type</label>
-                        <input type="text" class="form-control form-control-sm" name="purpose" id="purpose" value="" placeholder="Leave Type" required>
+                        <input type="text" class="form-control form-control-sm" name="leave_type" id="leave_type" value="" placeholder="Leave Type" required>
                       </div>
 
-                     
-
-
-                  
-                     
                     </div>
                     <div class="card-footer clearfix" style="display: block;">
                       <div class="row">

@@ -18,7 +18,6 @@
     <section class="content">
       <div class="container-fluid">
         <div class="row">
-
           <div class="col-sm-3">
             <?php include('symptoms_menu.php'); ?>
           </div>
@@ -43,12 +42,12 @@
                     <div class="row p-4">
                       <div class="form-group col-md-12 ">
                         <label>Symptoms Head </label>
-                        <input type="text" class="form-control form-control-sm" name="purpose" id="purpose" value="" placeholder="Symptoms Head" required>
+                        <input type="text" class="form-control form-control-sm" name="symptoms_head" id="symptoms_head" value="" placeholder="Symptoms Head" required>
                       </div>
 
                       <div class="form-group col-md-12  select_sm">
                         <label>Symptoms Type </label>
-                          <select class="form-control select2" name="bed_group_id" id="bed_group_id" data-placeholder="Select" required>
+                          <select class="form-control select2" name="symptoms_type_id" id="symptoms_type_id" data-placeholder="Select" required>
                           <option value=""> Select </option>                         
                            </select>
                            </div>
@@ -56,7 +55,7 @@
 
                       <div class="form-group col-md-12">
                         <label> Description</label>
-                        <textarea class="form-control form-control-sm" rows="3" name="Description" id="Description" placeholder="Enter Description" required> </textarea>
+                        <textarea class="form-control form-control-sm" rows="3" name="symptoms_description" id="symptoms_description" placeholder="Enter Description" required> </textarea>
                   </div>
                     </div>
                     <div class="card-footer clearfix" style="display: block;">

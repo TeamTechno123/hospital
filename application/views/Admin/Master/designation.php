@@ -44,7 +44,7 @@
 
                       <div class="form-group col-md-12 ">
                         <label>Designation</label>
-                        <input type="text" class="form-control form-control-sm" name="purpose" id="purpose" value="" placeholder="Designation" required>
+                        <input type="text" class="form-control form-control-sm" name="designation_name" id="designation_name" value="" placeholder="Designation" required>
                       </div>
 
                      

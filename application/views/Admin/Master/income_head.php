@@ -43,12 +43,12 @@
                     <div class="row p-4">
                       <div class="form-group col-md-12 ">
                         <label>Income Head </label>
-                        <input type="text" class="form-control form-control-sm" name="purpose" id="purpose" value="" placeholder="Income Head" required>
+                        <input type="text" class="form-control form-control-sm" name="income_head" id="income_head" value="" placeholder="Income Head" required>
                       </div>
 
                       <div class="form-group col-md-12">
                         <label> Description</label>
-                        <textarea class="form-control form-control-sm" rows="3" name="Description" id="Description" placeholder="Enter Description" required> </textarea>
+                        <textarea class="form-control form-control-sm" rows="3" name="income_head_description" id="income_head_description" placeholder="Enter Description" required> </textarea>
                   </div>
                     </div>
                     <div class="card-footer clearfix" style="display: block;">

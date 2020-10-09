@@ -43,7 +43,7 @@
                     <div class="row p-4">
                       <div class="form-group col-md-12 ">
                         <label>Name</label>
-                        <input type="text" class="form-control form-control-sm" name="purpose" id="purpose" value="<?php if(isset($purpose_info)){ echo $purpose_info['purpose']; } ?>" placeholder="Name" required>
+                        <input type="text" class="form-control form-control-sm" name="birth_record_name" id="birth_record_name" value="<?php if(isset($birth_record_name_info)){ echo $birth_record_name_info['birth_record_name']; } ?>" placeholder="Name" required>
                       </div>
 
                       <div class="col-md-12 text-left">

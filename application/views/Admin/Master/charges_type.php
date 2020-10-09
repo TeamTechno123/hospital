@@ -44,14 +44,9 @@
 
                       <div class="form-group col-md-12 ">
                         <label>Charge Type</label>
-                        <input type="text" class="form-control form-control-sm" name="purpose" id="purpose" value="" placeholder="Charge Type" required>
+                        <input type="text" class="form-control form-control-sm" name="charges_type" id="charges_type" value="" placeholder="Charge Type" required>
                       </div>
 
-                     
-
-
-                  
-                     
                     </div>
                     <div class="card-footer clearfix" style="display: block;">
                       <div class="row">

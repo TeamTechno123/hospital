@@ -39,12 +39,12 @@
 
                       <div class="form-group col-md-12 ">
                         <label>Zoom Api Key</label>
-                        <input type="text" class="form-control form-control-sm" name="purpose" id="purpose" value="" placeholder="Txt8ZWY0SZWVQk_CkXpXSg" required>
+                        <input type="text" class="form-control form-control-sm" name="zoom_api_key" id="zoom_api_key" value="" placeholder="Txt8ZWY0SZWVQk_CkXpXSg" required>
                       </div>
 
                        <div class="form-group col-md-12 ">
                         <label>Zoom API Secret</label>
-                        <input type="text" class="form-control form-control-sm" name="purpose" id="purpose" value="" placeholder="JDXGLwor0CWDnLJlqqyrZVSr0L6PUpVZuQB5" required>
+                        <input type="text" class="form-control form-control-sm" name="zoom_secret_key" id="zoom_secret_key" value="" placeholder="JDXGLwor0CWDnLJlqqyrZVSr0L6PUpVZuQB5" required>
                       </div>
 
                       <div class="form-group col-md-12">
@@ -75,12 +75,12 @@
 
                        <div class="form-group col-md-12 ">
                         <label>Default OPD Duration (In Minutes)</label>
-                        <input type="text" class="form-control form-control-sm" name="purpose" id="purpose" value="" placeholder="10" required>
+                        <input type="number" class="form-control form-control-sm" name="dopd_duration" id="dopd_duration" value="" placeholder="10" required>
                       </div>
 
                       <div class="form-group col-md-12 ">
                         <label >Default IPD Duration (In Minutes)</label>
-                        <input type="text" class="form-control form-control-sm" name="purpose" id="purpose" value="" placeholder="5" required>
+                        <input type="number" class="form-control form-control-sm" name="dipd_duration" id="dipd_duration" value="" placeholder="5" required>
                       </div>
 
                     </div>

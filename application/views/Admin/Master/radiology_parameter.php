@@ -44,12 +44,12 @@
 
                       <div class="form-group col-md-12 ">
                         <label> Parameter Name</label>
-                        <input type="text" class="form-control form-control-sm" name="purpose" id="purpose" value="" placeholder=" Parameter Name" required>
+                        <input type="text" class="form-control form-control-sm" name="radiology_parameter" id="radiology_parameter" value="" placeholder=" Parameter Name" required>
                       </div>
 
                       <div class="form-group col-md-12 ">
                         <label> Parameter Range</label>
-                        <input type="text" class="form-control form-control-sm" name="purpose" id="purpose" value="" placeholder=" Parameter Range" required>
+                        <input type="text" class="form-control form-control-sm" name="parameter_range" id="parameter_range" value="" placeholder=" Parameter Range" required>
                       </div>
 
 

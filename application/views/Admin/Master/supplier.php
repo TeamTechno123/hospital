@@ -44,27 +44,27 @@
 
                       <div class="form-group col-md-6 ">
                         <label>Supplier Name</label>
-                        <input type="text" class="form-control form-control-sm" name="purpose" id="purpose" value="" placeholder="Supplier Name" required>
+                        <input type="text" class="form-control form-control-sm" name="supplier_name" id="supplier_name" value="" placeholder="Supplier Name" required>
                       </div>
 
                       <div class="form-group col-md-6 ">
                         <label>Supplier Contact</label>
-                        <input type="text" class="form-control form-control-sm" name="purpose" id="purpose" value="" placeholder="Supplier Contact" required>
+                        <input type="number" class="form-control form-control-sm" name="supplier_contact" id="supplier_contact" value="" placeholder="Supplier Contact" required>
                       </div>
 
                        <div class="form-group col-md-6 ">
                         <label>Contact Person Name</label>
-                        <input type="text" class="form-control form-control-sm" name="purpose" id="purpose" value="" placeholder="Contact Person Name" required>
+                        <input type="text" class="form-control form-control-sm" name="contact_persone_name" id="contact_persone_name" value="" placeholder="Contact Person Name" required>
                       </div>
 
                       <div class="form-group col-md-6 ">
                         <label>Contact Person Phone</label>
-                        <input type="text" class="form-control form-control-sm" name="purpose" id="purpose" value="" placeholder="Contact Person Phone" required>
+                        <input type="number" class="form-control form-control-sm" name="contact_person_phone" id="contact_person_phone" value="" placeholder="Contact Person Phone" required>
                       </div>
 
                      <div class="form-group col-md-12">
                         <label> Address</label>
-                        <textarea class="form-control form-control-sm" rows="3" name="Address" id="Address" placeholder="Enter Address" required> </textarea>
+                        <textarea class="form-control form-control-sm" rows="3" name="supplier_address" id="supplier_address" placeholder="Enter Address" required> </textarea>
                   </div>
                     </div>
                     <div class="card-footer clearfix" style="display: block;">

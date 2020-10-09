@@ -44,25 +44,21 @@
 
                       <div class="form-group col-md-12 ">
                         <label>Name</label>
-                        <input type="text" class="form-control form-control-sm" name="purpose" id="purpose" value="" placeholder="Name" required>
+                        <input type="text" class="form-control form-control-sm" name="charges_category_name" id="charges_category_name" value="" placeholder="Name" required>
                       </div>
 
                       <div class="form-group col-md-12">
                         <label> Description</label>
-                        <textarea class="form-control form-control-sm" rows="3" name="Description" id="Description" placeholder="Enter Description" required> </textarea>
+                        <textarea class="form-control form-control-sm" rows="3" name="charges_description" id="charges_description" placeholder="Enter Description" required> </textarea>
                   </div>
 
 
                   <div class="form-group col-md-12  select_sm">
                       <label>Charge Type </label>
-                        <select class="form-control select2" name="bed_group_id" id="bed_group_id" data-placeholder="Select" required>
+                        <select class="form-control select2" name="charges_type_id" id="charges_type_id" data-placeholder="Select" required>
                         <option value=""> Select </option>                         
                          </select>
-                         </div>
-
-
-                  
-                     
+                         </div> 
                     </div>
                     <div class="card-footer clearfix" style="display: block;">
                       <div class="row">

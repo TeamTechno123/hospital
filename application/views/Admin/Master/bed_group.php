@@ -44,13 +44,13 @@
 
                       <div class="form-group col-md-12 ">
                         <label>Name</label>
-                        <input type="text" class="form-control form-control-sm" name="purpose" id="purpose" value="" placeholder="Name" required>
+                        <input type="text" class="form-control form-control-sm" name="bed_group_name" id="bed_group_name" value="" placeholder="Name" required>
                       </div>
 
 
                 <div class="form-group col-md-12 select_sm">
                  <label>Floor</label>
-                      <select class="form-control select2" name="bed_type_id" id="bed_type_id" data-placeholder="Floor" required>
+                      <select class="form-control select2" name="floor_id" id="floor_id" data-placeholder="Floor" required>
                           <option value="">Floor</option>                         
                       </select>
                 </div>
@@ -59,7 +59,7 @@
                       
                       <div class="form-group col-md-12">
                         <label> Description</label>
-                        <textarea class="form-control form-control-sm" rows="3" name="Description" id="Description" placeholder="Enter Description" required> </textarea>
+                        <textarea class="form-control form-control-sm" rows="3" name="bed_description" id="bed_description" placeholder="Enter Description" required> </textarea>
                   </div>
 
                   

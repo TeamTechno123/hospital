@@ -59,17 +59,17 @@
 
                       <div class="form-group col-md-6 ">
                         <label>Code</label>
-                        <input type="text" class="form-control form-control-sm" name="purpose" id="purpose" value="" placeholder="Code" required>
+                        <input type="text" class="form-control form-control-sm" name="charges_code" id="charges_code" value="" placeholder="Code" required>
                       </div>
 
                       <div class="form-group col-md-6 ">
                         <label>Standard Charge</label>
-                        <input type="text" class="form-control form-control-sm" name="purpose" id="purpose" value="" placeholder="Standard Charge" required>
+                        <input type="text" class="form-control form-control-sm" name="std_charges" id="std_charges" value="" placeholder="Standard Charge" required>
                       </div>
 
                       <div class="form-group col-md-12">
                         <label> Description</label>
-                        <textarea class="form-control form-control-sm" rows="3" name="Description" id="Description" placeholder="Enter Description" required> </textarea>
+                        <textarea class="form-control form-control-sm" rows="3" name="charges_description" id="charges_description" placeholder="Enter Description" required> </textarea>
                   </div>
 
 
@@ -78,15 +78,15 @@
                     <div class="row">
                        <div class="form-group col-md-6 ">
                         <label>CGHS</label>
-                        <input type="text" class="form-control form-control-sm" name="purpose" id="purpose" value="" placeholder="CGHS" required>
+                        <input type="text" class="form-control form-control-sm" name="cghs" id="cghs" value="" placeholder="CGHS" required>
                       </div>
                       <div class="form-group col-md-6 ">
                         <label>IDBI Federal</label>
-                        <input type="text" class="form-control form-control-sm" name="purpose" id="purpose" value="" placeholder="IDBI Federal" required>
+                        <input type="text" class="form-control form-control-sm" name="idbi_fedral" id="idbi_fedral" value="" placeholder="IDBI Federal" required>
                       </div>
                       <div class="form-group col-md-6 ">
                         <label>Star Health Insurance</label>
-                        <input type="text" class="form-control form-control-sm" name="purpose" id="purpose" value="" placeholder="Star Health Insurance" required>
+                        <input type="text" class="form-control form-control-sm" name="star_health" id="star_health" value="" placeholder="Star Health Insurance" required>
                       </div>
                     </div>
                   </div>

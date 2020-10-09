@@ -44,18 +44,18 @@
 
                       <div class="form-group col-md-12 ">
                         <label> Parameter Name</label>
-                        <input type="text" class="form-control form-control-sm" name="purpose" id="purpose" value="" placeholder=" Parameter Name" required>
+                        <input type="text" class="form-control form-control-sm" name="pathology_parameter" id="pathology_parameter" value="" placeholder=" Parameter Name" required>
                       </div>
 
                       <div class="form-group col-md-12 ">
                         <label> Parameter Range</label>
-                        <input type="text" class="form-control form-control-sm" name="purpose" id="purpose" value="" placeholder=" Parameter Range" required>
+                        <input type="text" class="form-control form-control-sm" name="parameter_range" id="parameter_range" value="" placeholder=" Parameter Range" required>
                       </div>
 
 
                       <div class="form-group col-md-12  select_sm">
                           <label>Unit </label>
-                        <select class="form-control select2" name="bed_group_id" id="bed_group_id" data-placeholder="Select" required>
+                        <select class="form-control select2" name="pathology_unit_id" id="pathology_unit_id" data-placeholder="Select" required>
                            <option value=""> Select </option>                         
                         </select>
                         </div>
@@ -63,7 +63,7 @@
 
                         <div class="form-group col-md-12">
                         <label> Description</label>
-                        <textarea class="form-control form-control-sm" rows="3" name="Description" id="Description" placeholder="Enter Description" required> </textarea>
+                        <textarea class="form-control form-control-sm" rows="3" name="pathology_description" id="pathology_description" placeholder="Enter Description" required> </textarea>
                   </div>
 
 

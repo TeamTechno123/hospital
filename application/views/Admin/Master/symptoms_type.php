@@ -44,7 +44,7 @@
 
                       <div class="form-group col-md-12 ">
                         <label>Symptoms Type</label>
-                        <input type="text" class="form-control form-control-sm" name="purpose" id="purpose" value="" placeholder="Symptoms Type" required>
+                        <input type="text" class="form-control form-control-sm" name="symptoms_type" id="symptoms_type" value="" placeholder="Symptoms Type" required>
                       </div>
                     </div>
                     <div class="card-footer clearfix" style="display: block;">

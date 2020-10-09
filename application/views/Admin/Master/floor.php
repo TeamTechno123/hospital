@@ -44,12 +44,12 @@
 
                       <div class="form-group col-md-12 ">
                         <label>Name</label>
-                        <input type="text" class="form-control form-control-sm" name="purpose" id="purpose" value="" placeholder="Name" required>
+                        <input type="text" class="form-control form-control-sm" name="floor_name" id="floor_name" value="" placeholder="Name" required>
                       </div>
 
                       <div class="form-group col-md-12">
                         <label> Description</label>
-                        <textarea class="form-control form-control-sm" rows="3" name="Description" id="Description" placeholder="Enter Description" required> </textarea>
+                        <textarea class="form-control form-control-sm" rows="3" name="floor_description" id="floor_description" placeholder="Enter Description" required> </textarea>
                   </div>
 
                   

@@ -43,7 +43,7 @@
                     <div class="row p-4">
                       <div class="form-group col-md-12 ">
                         <label>Source</label>
-                        <input type="text" class="form-control form-control-sm" name="purpose" id="purpose" value="<?php if(isset($purpose_info)){ echo $purpose_info['purpose']; } ?>" placeholder="Source" required>
+                        <input type="text" class="form-control form-control-sm" name="source_name" id="source_name" value="<?php if(isset($source_name_info)){ echo $source_name_info['source_name']; } ?>" placeholder="Source" required>
                       </div>
 
                       <div class="form-group col-md-12">

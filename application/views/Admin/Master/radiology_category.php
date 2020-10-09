@@ -44,7 +44,7 @@
 
                       <div class="form-group col-md-12 ">
                         <label>Radiology Category</label>
-                        <input type="text" class="form-control form-control-sm" name="purpose" id="purpose" value="" placeholder="Radiology Category" required>
+                        <input type="text" class="form-control form-control-sm" name="radiology_category" id="radiology_category" value="" placeholder="Radiology Category" required>
                       </div>
                     </div>
                     <div class="card-footer clearfix" style="display: block;">

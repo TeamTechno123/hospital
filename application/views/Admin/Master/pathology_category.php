@@ -44,7 +44,7 @@
 
                       <div class="form-group col-md-12 ">
                         <label>Pathology Category</label>
-                        <input type="text" class="form-control form-control-sm" name="purpose" id="purpose" value="" placeholder="Pathology Category" required>
+                        <input type="text" class="form-control form-control-sm" name="pathology_category" id="pathology_category" value="" placeholder="Pathology Category" required>
                       </div>
                     </div>
                     <div class="card-footer clearfix" style="display: block;">
